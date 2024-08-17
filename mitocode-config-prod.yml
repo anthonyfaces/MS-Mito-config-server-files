@@ -1,2 +1,3 @@
 mitocode:
   environment: production
+  branch: main
