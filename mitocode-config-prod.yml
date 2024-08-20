@@ -1,3 +1,5 @@
 mitocode:
-  environment: production
-    password: '{cipher}bc70deee6b55b06d5fd81cdb53628812a5027788f82af0a299feca26cc6279aea09992df47c3a5c391ec467f2ec67559d18e10ecb7b10f6d243a7e72d683690e'
+  environment: production  
+  branch: develop
+  password: '{cipher}bc70deee6b55b06d5fd81cdb53628812a5027788f82af0a299feca26cc6279aea09992df47c3a5c391ec467f2ec67559d18e10ecb7b10f6d243a7e72d683690e'
+
